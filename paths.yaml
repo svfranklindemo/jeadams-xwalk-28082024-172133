@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/jeadams/jeadams-2024-8-28-13-21-2/:/
+ - /content/jeadams/jeadams-2024-8-28-13-21-2/metadata.json:/metadata.json
+ - /content/jeadams/jeadams-2024-8-28-13-21-2/redirects.json:/redirects.json
